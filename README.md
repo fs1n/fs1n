@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ultihost.ch**
 
-- 📫 How to reach me **ghlix@ghlix.com**
+- 📫 How to reach me **info@ghlix.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
