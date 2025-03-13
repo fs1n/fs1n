@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Ultihost.ch**
 
+- 📚 I'm currently Learning **MongDB Basics & Administration**
+
 - 📫 How to reach me **info@ghlix.com**
 
 <h3 align="left">Connect with me:</h3>
