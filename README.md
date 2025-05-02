@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Frederik</h1>
-<h3 align="center">System Engineering Apprentice | Homelab enthusiast | NERD</h3>
+<h3 align="center">System Engineering Apprentice | Homelab enthusiast | NERD | AI Workflow Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pommmmmes&label=Profile%20views&color=0e75b6&style=flat" alt="pommmmmes" /> </p>
 
 - 🔭 I’m currently working on **Ultihost.ch**
 
-- 📚 I'm currently Learning **MongoDB Basics & Administration**
+- 📚 I'm currently Learning **MongoDB Basics & Administration** & **RAG Application and Workflow design**
 
 - 📫 How to reach me **info@ghlix.com**
 
