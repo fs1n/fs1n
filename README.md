@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Hello I'm Frederik, I come from Planet earth. There is not much to say ...</p>
+<p align="left">Hello I'm Frederik, random earthling that likes tech</p>
 
 ###
 
