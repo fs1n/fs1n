@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since to long<br>📚 I'm currently learning AI & ML Stuff, also im Interested in Databases, Containerisation and Virtualisation.<br>🎯 Goals: 99.99999% Uptime</p>
+<p align="left">✨ Creating bugs since to long<br>📚 I'm currently deapdiving into Ansible, I'm also Interested in Databases, Containerisation and Virtualisation.<br>🎯 Goals: 99.99999% Uptime</p>
 
 ###
 
