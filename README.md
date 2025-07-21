@@ -5,12 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fs1n/count.svg?"  />
-</div>
-
-###
-
 <p align="left">Hello I'm Frederik, random earthling that likes tech</p>
 
 ###
