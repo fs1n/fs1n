@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 I'm currently deepdiving into Ansible, I'm also Interested in Databases, Containerisation and Virtualisation.<br>🎯 Goals: 99.99999% Uptime</p>
+<p align="left">📚 I'm currently deepdiving into Ansible, I'm also Interested in Databases, Containerisation and Virtualisation.<br>🦾 Currently working on a Powershell OpenAPI Wrapper Generator and other funny automation.<br>🎯 Goals: 99.99999% Uptime</p>
 
 ###
 
