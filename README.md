@@ -17,6 +17,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fs1n/fs1n/output/snake.svg" alt="Snake animation" />
+![My GitHub Game](game.gif)
 
 ###
